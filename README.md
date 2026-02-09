@@ -15,9 +15,6 @@ Formado em ADS<br>Dev Pleno<br>Perfil para estudos e projetos
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Cleyhss&icon=0&color=0)](https://visitcount.itsvg.in)
 
