@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Formado em ADS<br>Dev Júnior<br>Perfil para estudos e projetos 
+Formado em ADS<br>Dev Pleno<br>Perfil para estudos e projetos 
 
 
 ## 🌐 Redes Sociais:
